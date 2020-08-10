@@ -141,7 +141,6 @@ REFERENCES level (id) ON UPDATE CASCADE
 ON DELETE SET NULL;
 
 -- ------------------------------------------------
-KEY (level)
 ALTER TABLE Instructor
 DROP FOREIGN KEY instructor_ibfk_1;
 ALTER TABLE Instructor
@@ -153,11 +152,9 @@ ON DELETE SET NULL;
 ALTER TABLE Student
 DROP FOREIGN KEY student_ibfk_1;
 ALTER TABLE Student
-
- ADD CONSTRAINT student_ibfk_1 FOREIGN KEY (department_code) REFERENCES Department (code_number)
+ADD CONSTRAINT student_ibfk_1 FOREIGN KEY (department_code) REFERENCES Department (code_number)
 ON UPDATE CASCADE
 ON DELETE SET NULL;
-
 -- ------------------------------------------------
 ALTER TABLE Section
 DROP FOREIGN KEY section_ibfk_1;
@@ -183,7 +180,6 @@ REFERENCES Classroom (id) ON UPDATE CASCADE
 ON DELETE SET NULL;
 
 -- ------------------------------------------------
-KEY (course_code)
 ALTER TABLE College_Department
 DROP FOREIGN KEY college_department_ibfk_1;
 ALTER TABLE College_Department
@@ -192,9 +188,6 @@ REFERENCES College (name) ON UPDATE CASCADE
 ON DELETE SET NULL;
 
 -- ------------------------------------------------
-KEY (instructor_id)
-KEY (classroom_id)
-
 ALTER TABLE College_Department
 DROP FOREIGN KEY college_department_ibfk_2;
 ALTER TABLE College_Department
