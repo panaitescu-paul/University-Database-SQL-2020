@@ -15,14 +15,16 @@ University Database made in SQL
 
 ## Database Overview:
 <br/>
-
-![alt text](https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/1.png)
-![alt text](https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/2.png)
-![alt text](https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/3.png)
-![alt text](https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/4.png)
-![alt text](https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/5.png)
-![alt text](https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/6.png)
-![alt text](https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/7.png)
-![alt text](https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/8.png)
-![alt text](https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/9.png)
-![alt text](https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/10.png)
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/1.png">
+  <img width="50%" height="50%" src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/2.png">
+  <img width="50%" height="50%" src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/3.png">
+  <img width="50%" height="50%" src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/4.png">
+  <img width="50%" height="50%" src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/2.png">
+  <img width="50%" height="50%" src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/5.png">
+  <img width="50%" height="50%" src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/6.png">
+  <img width="50%" height="50%" src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/7.png">
+  <img width="50%" height="50%" src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/8.png">
+  <img width="50%" height="50%" src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/9.png">
+  <img width="50%" height="50%" src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/10.png">
+</p>
