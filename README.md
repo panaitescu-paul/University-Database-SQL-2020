@@ -2,8 +2,8 @@
 University Database made in SQL
 
 ## Content:
-- **SQL Queries** to form the University DB
-- **Database exported** as a SQL file
+- **SQL Queries** to from the University DB
+- **Exported Database** - as an SQL file
 - **Documentation with screenshots** of the database
 - **ER Diagram** of the database
 
