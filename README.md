@@ -16,6 +16,7 @@ University Database made in SQL
 ## Database Overview:
 <br/>
 <p align="center">
+  ![](https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/1.png | width=100)
   <img src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/1.png">
   <img src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/2.png">
   <img src="https://github.com/panaitescu-paul/University-Database-SQL-2020/blob/master/screenshots/3.png">
