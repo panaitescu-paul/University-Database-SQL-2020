@@ -1,5 +1,6 @@
-# University-Database-SQL-2020
-University Database made in SQL
+# University Database - SQL - 2020
+
+University Database made in SQL.
 
 ## Content:
 - **SQL Queries** applied on the University DB
